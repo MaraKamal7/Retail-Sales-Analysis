@@ -1,6 +1,6 @@
-Retail Sales Analytics Project
+# Retail Sales Analytics Project
 
-Overview
+## Overview
 
 This project was developed as an end-to-end Retail Sales Analytics solution using MySQL and Power BI.
 
@@ -10,7 +10,7 @@ The project covers the complete analytics lifecycle including data modeling, SQL
 
 ---
 
-Business Problem
+## Business Problem
 
 The retail company operates across multiple regions and collects sales data from different systems and years. Management lacked a unified analytical view to monitor performance and support decision-making.
 
@@ -24,7 +24,7 @@ The project aims to:
 
 ---
 
-Technologies Used
+## Technologies Used
 
 - MySQL
 - Power BI
@@ -34,16 +34,16 @@ Technologies Used
 
 ---
 
-Data Modeling
+## Data Modeling
 
 A dimensional model was designed using:
 
-Fact Tables
+### Fact Tables
 
 - Fact_Sales
 - Fact_Returns
 
-Dimension Tables
+### Dimension Tables
 
 - Dim_Customers
 - Dim_Products
@@ -54,9 +54,9 @@ The final model follows a Galaxy Schema (Fact Constellation) structure with shar
 
 ---
 
-SQL Development
+## SQL Development
 
-Data Cleaning
+### Data Cleaning
 
 - Removed duplicates
 - Handled missing values
@@ -64,9 +64,9 @@ Data Cleaning
 - Corrected data types
 - Converted date fields
 
-Business Analysis Queries
+## Business Analysis Queries
 
-Business questions were answered using:
+### Business questions were answered using:
 
 - Joins
 - Aggregations
@@ -76,11 +76,9 @@ Business questions were answered using:
 
 ---
 
-Power BI Development
+## Power BI Development (DAX Measures)
 
-DAX Measures
-
-Key measures include:
+### Key measures include:
 
 - Total Sales
 - Total Profit
@@ -94,9 +92,9 @@ Key measures include:
 
 ---
 
-Dashboard Pages
+## Dashboard Pages
 
-Executive Overview (page 1)
+### Executive Overview (page 1)
 
 Focus:
 
@@ -114,7 +112,7 @@ KPIs:
 
 ---
 
-Sales & Product Analysis (page 2)
+### Sales & Product Analysis (page 2)
 
 Focus:
 
@@ -132,7 +130,7 @@ KPIs:
 
 ---
 
-Customer & Regional Insights (page 3)
+### Customer & Regional Insights (page 3)
 
 Focus:
 
@@ -150,7 +148,7 @@ KPIs:
 
 ---
 
-Key Business Questions
+## Key Business Questions
 
 1. What drives sales growth?
 2. Which products or regions underperform?
@@ -159,7 +157,7 @@ Key Business Questions
 
 ---
 
-Key Insights
+## Key Insights
 
 - Sales growth is primarily driven by a limited number of high-performing products.
 - Several products generate significant revenue but also experience high return rates.
@@ -169,7 +167,7 @@ Key Insights
 
 ---
 
-Recommendations
+## Recommendations
 
 - Increase focus on high-margin products.
 - Reduce product return rates through quality improvements.
@@ -179,8 +177,7 @@ Recommendations
 
 ---
 
-Author
 
-Mara Kamal
+# Mara Kamal
 
-Data Analyst | SQL | Power BI | Data Visualization
+### Data Analyst | SQL | Power BI | Data Visualization
