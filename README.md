@@ -176,17 +176,7 @@ KPIs:
 - Improve performance in underperforming regions.
 
 ---
-## Dashboard Preview
 
-![Overview](Screenshots/1.png)
-
-![Sales Analysis](Screenshots/2.png)
-
-![Customer Analysis](Screenshots/3.png)
-
-![Modeling](Screenshots/Modeling.png)
-
----
 # Mara Kamal
 
 ### Data Analyst | SQL | Power BI | Data Visualization
